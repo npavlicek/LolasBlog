@@ -1,5 +1,5 @@
 # LolasBlog
-Front end: [spring-demo-frontend](https://www.github.com/npavlicek/spring-demo-frontend)
+Front end: [lolas-blog-frontend](https://www.github.com/npavlicek/lolas-blog-frontend)
 
 A blog site demo utilizing SpringBoot and MongoDB for storing passwords and content.
 
